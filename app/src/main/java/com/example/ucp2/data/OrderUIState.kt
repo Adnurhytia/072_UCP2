@@ -5,5 +5,6 @@ data class OrderUIState(
     val NIM: String = "",
     val Konsentrasi: String = "",
     val JudulSkripsi : String = "",
+    val dosen : String = "",
 
 )
